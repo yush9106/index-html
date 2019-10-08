@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
   <Title> ASSIGMENT 1 </title>
-  <h1>On a scale from 0 to 10 how confident are you in your web development skills? </h1>
+  <h3>On a scale from 0 to 10 how confident are you in your web development skills? </h3>
   <ul> <li>4
   </li></ul>
   <ul><li>I can code html, and I'm willing to learn more from you.</li>
   </ul>
-  <h2>Name
-  </h2>
+  <h3>Name
+  </h3>
   <ul><li>Shixiao Yu. </li>
   </ul>
   <h3>OSU Email Address
@@ -19,19 +19,19 @@
   <ul><li>Marketing</li></ul>
   <ul><li>2nd year of study.</li>
   </ul>
-  <h4>What do you hope to learn?
-  </h4>
+  <h3>What do you hope to learn?
+  </h3>
   <ul><li>I can do front end editing of websites.</li>
   </ul>
-  <h5>Have you signed up for Plazza?
-  </h5>
+  <h3>Have you signed up for Plazza?
+  </h3>
   <ul><li>yes
   </li></ul>
-  <h6>A description of the most interesting fact about you and the most unique experience.
-  </h6>
+  <h3>A description of the most interesting fact about you and the most unique experience.
+  </h3>
   <ul><li>I have worked in a furniture company. I really enjoying marketing and image design.
   </li></ul>
-  <h6>Photo</h6>
+  <h3>Photo</h3>
   <ul><img src="Shixiao.png" alt="Shixiao">
   </ul>
 </html>
